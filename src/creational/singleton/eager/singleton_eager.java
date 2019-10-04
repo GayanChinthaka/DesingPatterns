@@ -9,5 +9,6 @@ public class singleton_eager {
 
     public static singleton_eager getInstance(){
         return instance;
+        szdf
     }
 }
